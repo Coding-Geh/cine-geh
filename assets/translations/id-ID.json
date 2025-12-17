@@ -1,0 +1,30 @@
+{
+    "title": "CineGeh",
+    "nav": {
+        "movies": "Film",
+        "search": "Cari",
+        "favorites": "Favorit"
+    },
+    "movies": {
+        "now_playing": "Sedang Tayang",
+        "popular": "Film Populer",
+        "trending": "Trending"
+    },
+    "search": {
+        "hint": "Cari film...",
+        "start": "Cari film",
+        "no_results": "Film tidak ditemukan"
+    },
+    "favorites": {
+        "empty": "Belum ada favorit"
+    },
+    "movie": {
+        "overview": "Sinopsis",
+        "no_overview": "Sinopsis tidak tersedia",
+        "cast": "Pemeran",
+        "similar": "Film Serupa"
+    },
+    "footer": {
+        "rights": "Hak cipta dilindungi"
+    }
+}

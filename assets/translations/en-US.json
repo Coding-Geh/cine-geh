@@ -1,0 +1,30 @@
+{
+  "title": "CineGeh",
+  "nav": {
+    "movies": "Movies",
+    "search": "Search",
+    "favorites": "Favorites"
+  },
+  "movies": {
+    "now_playing": "Now Playing",
+    "popular": "Popular Movies",
+    "trending": "Trending"
+  },
+  "search": {
+    "hint": "Search movies...",
+    "start": "Search for movies",
+    "no_results": "No movies found"
+  },
+  "favorites": {
+    "empty": "No favorites yet"
+  },
+  "movie": {
+    "overview": "Overview",
+    "no_overview": "No overview available",
+    "cast": "Cast",
+    "similar": "Similar Movies"
+  },
+  "footer": {
+    "rights": "All rights reserved"
+  }
+}
