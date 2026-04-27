@@ -18,7 +18,7 @@ A beautiful movie discovery app built with Flutter. Explore trending, popular, a
 
 ## 🚀 Live Demo
 
-**[Try CineGeh →](https://coding-geh.github.io/cinegeh/)**
+**[Try CineGeh →](https://codinggeh.github.io/cine-geh/)**
 
 ## 📦 Installation
 
@@ -31,8 +31,8 @@ A beautiful movie discovery app built with Flutter. Explore trending, popular, a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Coding-Geh/cinegeh.git
-   cd cinegeh
+   git clone https://github.com/codinggeh/cine-geh.git
+   cd cine-geh
    ```
 
 2. **Create environment file**
